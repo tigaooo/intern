@@ -24,7 +24,7 @@ if (rand == 3){
 if (rand == 4){
     user_result = "凶";
 }
-if (rand == 4){
+if (rand == 5){
     user_result = "大凶";
 }
 if (user_name == "名無し"){
